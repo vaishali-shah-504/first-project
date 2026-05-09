@@ -1,0 +1,6 @@
+server:
+  port: 8191
+
+spring:
+  application:
+    name: first-project
